@@ -1,0 +1,24 @@
+# Quartus 编译数据库
+db/
+incremental_db/
+
+# 编译输出目录
+output_files/
+
+# 临时文件
+*.qws
+*.bak
+*.tmp
+
+# 报告和日志
+*.rpt
+*.summary
+*.smsg
+
+# 仿真波形
+*.vcd
+*.wlf
+
+# 编辑器配置
+.vscode/
+.idea/
