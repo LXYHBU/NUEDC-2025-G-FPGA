@@ -50,6 +50,7 @@
 ## 📷 装置硬件实物展示
 
 ![电路模型探究装置实物图](images/hardware.png)
-
+> **📄 文档资料：** [点击此处在线阅读《赛题.pdf》](report/design_report.pdf)
+> > **📄 文档资料：** [点击此处在线阅读《设计报告.pdf》](title/design_report.pdf)
 
 
